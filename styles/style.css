@@ -1,12 +1,14 @@
 .one{
-    text-align: center;
+    color: bisque;
+    text-shadow:6px 6px 4px crimson;
+    text-align: right;
     margin: 2%;
     padding: 8%;
     background-color: coral;
-    background-position: center;
-    background-image: url('/styles/image/artist.jpeg');
-}
-p{
-    color: bisque;
+    background-position: left;
+    background-size: 400px;
+    background-image: url('/styles/image/model.jpeg');
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 5px crimson;
     
 }
