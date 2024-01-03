@@ -1,3 +1,12 @@
-h1{
-    background-color: brown;
+.one{
+    text-align: center;
+    margin: 2%;
+    padding: 8%;
+    background-color: coral;
+    background-position: center;
+    background-image: url('/styles/image/artist.jpeg');
+}
+p{
+    color: bisque;
+    
 }
