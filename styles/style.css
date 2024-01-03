@@ -109,6 +109,7 @@
     box-shadow:10px 10px 5px crimson;
   }
   div.gallery {
+    background-color: coral;
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
