@@ -108,15 +108,7 @@
     font-size: 30px;
     box-shadow:10px 10px 5px crimson;
   }
-  .container {
-    display: grid;
-    height: 400px;
-    align-content: right;
-    grid-template-columns: auto auto auto auto;
-    gap: 10px;
-    background-color: #2196F3;
-    padding: 10px;
-  }
+ 
 
 
 
