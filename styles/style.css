@@ -9,7 +9,7 @@
     background-color: coral;
     background-position: left;
     background-size: 400px;
-    background-image: url('/styles/image/model.jpeg');
+    background-image: url('image/model.jpeg');
     background-repeat: no-repeat;
     box-shadow: 10px 10px 5px crimson;
     
@@ -32,7 +32,7 @@
     height: 100px;
     color: aliceblue;
     background-color: rgb(211, 98, 98);
-    background-image: url('/styles/image/lipstick.jpg');
+    background-image: url('image/lipstick.jpg');
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: right;
@@ -45,7 +45,7 @@
    #two{
     color: aliceblue;
     background-color: rgb(231, 160, 72);
-    background-image: url('/styles/image/compact.jpeg');
+    background-image: url('image/compact.jpeg');
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: right;
@@ -58,7 +58,7 @@
    #three{
     color: aliceblue;
     background-color: rgb(56, 50, 50);
-    background-image: url('/styles/image/kajal.jpg');
+    background-image: url('image/kajal.jpg');
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: right;
@@ -72,7 +72,7 @@
     height: 100px;
     color: aliceblue;
     background-color: rgb(137, 92, 173);
-    background-image: url('/styles/image/eyeshadow.jpeg');
+    background-image: url('image/eyeshadow.jpeg');
     background-size: 220px;
     background-repeat: no-repeat;
     background-position: right;
@@ -85,7 +85,7 @@
   #five {
     color: aliceblue;
     background-color: palevioletred;
-    background-image: url('/styles/image/blush.jpeg');
+    background-image: url('image/blush.jpeg');
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: right;
@@ -98,7 +98,7 @@
    #six{
     color: aliceblue;
     background-color: rgb(252, 113, 32);
-    background-image: url('/styles/image/highligter.jpg');
+    background-image: url('image/highligter.jpg');
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: right;
