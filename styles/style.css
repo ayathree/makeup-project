@@ -10,7 +10,7 @@
     background-color: coral;
     background-position: left;
     background-size: 450px;
-    background-image: url('/styles/image/model.jpeg');
+    background-image: url('./image/model.jpeg');
     background-repeat: no-repeat;
     box-shadow: 10px 10px 5px gray;
     
