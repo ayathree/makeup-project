@@ -33,7 +33,7 @@
     height: 100px;
     color: aliceblue;
     background-color: rgb(211, 98, 98);
-    background-image: url('/styles/image/lipstick.jpg');
+    background-image: url('./image/lipstick.jpg');
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: right;
